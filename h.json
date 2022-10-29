@@ -9,7 +9,9 @@
 "spider":"https://xn--m7r412advb92j21st65a.tk/vob;md5;a91aeb95134dbe8f9feff032a63e6c3d",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 //"wallpaper":"https://tool.weetai.cn/api",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
+
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
 
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/bilibili.json"},
