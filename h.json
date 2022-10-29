@@ -3,7 +3,7 @@
 // 本接口收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
 {
 
-"spider":"https://xn--m7r412advb92j21st65a.tk/vob;md5;a91aeb95134dbe8f9feff032a63e6c3d",
+"spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;8a50493d65218bdd6c9c0089f415df2f",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 //"wallpaper":"https://tool.weetai.cn/api",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
@@ -32,9 +32,11 @@
 {"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"👓追剧┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
 {"key":"IKan","name":"❤️爱看┃SP","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
+
 {"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
 {"key":"csp_Lgyy","name": "🔃蓝光┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
 {"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar/ts.jar"},
@@ -43,6 +45,7 @@
 {"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_SP293","name":"2️⃣293┃SP","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"🐼追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_EEEDY","name":"🌀3E飘花┃SP","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
