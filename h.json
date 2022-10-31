@@ -3,7 +3,7 @@
 // 本接口收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
 {
 
-"spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;8a50493d65218bdd6c9c0089f415df2f",
+"spider":"https://xn--m7r412advb92j21st65a.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 //"wallpaper":"https://tool.weetai.cn/api",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
@@ -107,12 +107,12 @@
 {"key": "新哔哩","name": "🅱️新哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/fssyxs/bak/raw/master/xbl.json","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 {"key": "体育","name": "🅱️体育天地","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/fssyxs/bak/raw/master/ty.json","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt"},
-{"key":"儿童","name":"哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key":"幼儿乐园","name":"哔哩┃幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/yejy.json"},
-{"key":"少儿教育","name":"哔哩┃少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/sejy.json"},
-{"key":"小学课堂","name":"哔哩┃小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/xxkt.json"},
-{"key":"初中教育","name":"哔哩┃初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/czkt.json"},
-{"key":"高中教育","name":"哔哩┃高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/gzkt.json"},
+{"key":"儿童","name":"🅱️儿童园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
+{"key":"幼儿乐园","name":"🅱️幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/yejy.json"},
+{"key":"少儿教育","name":"🅱️少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/sejy.json"},
+{"key":"小学课堂","name":"🅱️小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/xxkt.json"},
+{"key":"初中教育","name":"🅱️初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/czkt.json"},
+{"key":"高中教育","name":"🅱️高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/fssyxs/bak/raw/master/gzkt.json"},
 
 {"key":"csp_xbb_348电影网","name":"切片┃348电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/348电影网.json"},
 {"key":"csp_xp_gongreng","name":"切片┃工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/gongreng.json"},
@@ -254,8 +254,8 @@
 {"key":"dr_莫扎兔","name":"🔃莫扎兔","type":1,"api":"https://178666666.xyz/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "dr_18av","name": "🔃18av", "type": 1, "api": "https://178666666.xyz/vod?rule=18av&ext=txt/js/18/18av.js","searchable": 2, "quickSearch": 0, "filterable": 0},
 {"key": "dr_banan","name": "🔃banan", "type": 1,"api": "https://178666666.xyz/vod?rule=banan&ext=txt/js/18/banan.js","searchable": 2,"quickSearch": 0,"filterable": 0},
-{"key":"dr_爱车MV","name":"🔃爱车MV","type":1,"api":"https://178666666.xyz/vod?rule=爱车MV","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_小品网","name":"🔃小品网","type":1,"api":"https://178666666.xyz/vod?rule=小品网","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_DJ音乐","name":"🔃DJ音乐","type":1,"api":"https://178666666.xyz/vod?rule=DJ音乐","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_听书网","name":"🔃听书网","type":1,"api":"https://178666666.xyz/vod?rule=听书网","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_大师兄影视","name":"🔃大师兄影视","type":1,"api":"https://178666666.xyz/vod?rule==大师兄影视&ext=txt/js/tg/大师兄影视.js","searchable":1,"quickSearch":1,"filterable":0},
         {
             "key": "dr_Missav",
