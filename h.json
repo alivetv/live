@@ -3,8 +3,8 @@
 // 本接口收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
 {
 
-//"spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
-"spider":"https://agit.ai/hjcm/boxing/raw/master/v/vod.jar;md5;c4ba98711fac35daff17780d0817f5dc",
+"spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
+//"spider":"https://agit.ai/hjcm/boxing/raw/master/v/vod.jar;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 //"wallpaper":"https://tool.weetai.cn/api",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
