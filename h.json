@@ -13,7 +13,7 @@
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/Biliych.json"},
-{"key":"douban","name":"🅱豆瓣荐片┃河津传媒推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"douban","name":"🅱豆瓣荐片┃河津传媒推介首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xn--m7r412advb92j21st65a.tk/json/alist.json"},
 	
 //{"key":"csp_KanSJ","name":"🗽看视界┃SP","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -62,6 +62,38 @@
 {"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xn--m7r412advb92j21st65a.tk/xp/88看球.json"},
 {"key":"csp_XPath_鹅直播","name":"🐧鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xn--m7r412advb92j21st65a.tk/xp/企鹅直播.json"},
 {"key":"csp_xBPQ_zf","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://xn--m7r412advb92j21st65a.tk/xbpq/抓饭体育.json"},
+{
+      "key": "csp_xBPQ_抓饭体育",
+      "name": "️⚽抓饭体育",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
+    },
+
+    {
+      "key": "dr_JRKAN直播",
+      "name": "🏀JRK直播",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
+    },
+    
+    {
+      "key": "csp_XYQ_lu1",
+      "name": "️🖥️电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
+    },
 {"key":"网易CC","name":"🏏网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/%E7%BD%91%E6%98%93CC.json"},
 {"key":"csp_xpath_酷狗MV","name":"🐶酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/%E9%85%B7%E7%8B%97MV.json"},
 {"key":"csp_XYQBiu_酷奇","name":"🎤明星MTV","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://xn--m7r412advb92j21st65a.tk/XYQxb/酷奇MV.json"},
@@ -134,9 +166,6 @@
 {"key":"csp_xp_yinghua","name":"切片┃樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/yinghua.json"},
 {"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/去看吧.json"},
 {"key":"mtv_xp_维奇动漫","name":"切片┃维奇动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/维奇动漫.json"},
-{"key":"csp_biubiu_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2809/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json?sign=b1ntret-a0cUD6DLTuzsQFe6wX9uJpjKDv6h5YuSPjo%3D%3A0"},
-{"key":"csp_biubiu_OmoFun动漫","name":"切片┃OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2647/OmoFun%E5%8A%A8%E6%BC%AB.json?sign=NizUSKpcup6esDOfcyAk8XgIC2QvlN26n4q5_3Ardxs%3D%3A0"},
-{"key":"csp_biubiu_森屋新番","name":"切片┃森屋新番","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2741/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json?sign=mOHaoD0u8aHzrlWgbE2mYQTP71p_UbirqMhxD95dRRw%3D%3A0"},
 {"key":"csp_app_小鸟动漫","name":"切片┃小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"mtv_xp_AGE","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/gginn/ganggang/-/raw/master/AGE.json"},
 {"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/gginn/ganggang/-/raw/master/dongmandao.json"},
@@ -147,6 +176,7 @@
 {"key":"mtv_xp_不卡影院","name":"切片┃不卡影院","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/不卡影院.json"},
 {"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/骚火电影.json"},
 {"key":"mtv_xp_口袋影院","name":"切片┃口袋影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/口袋影院.json"},
+{"key":"mtv_xp_三五影院","name":"切片┃三五影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/404/555dy%200713.json?sign=b9SziL0Blx-YE0R6ask7ts-RSICedM35sN_VrNOxpDI%3D%3A0"},
 //{"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/克拉影视.json"},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/奇优影院.json"},
 //{"key":"mtv_xp_大米星球","name":"切片┃大米星球","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/大米星球.json"},
@@ -298,6 +328,13 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        {
+      "key": "drpy_js_看视界",
+      "name": "🎉看视界🎉",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
+    },
 {"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://178666666.xyz/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0}],
 //解析设置
 "parses":[
