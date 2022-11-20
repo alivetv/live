@@ -5,7 +5,7 @@
 
 "spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
 //"spider":"https://agit.ai/hjcm/boxing/raw/master/v/vod.jar;md5;c4ba98711fac35daff17780d0817f5dc",
-"wallpaper":"https://壁纸.神器每日推送.tk",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //"wallpaper":"https://tool.weetai.cn/api",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2FsaXZldHYvdi9saXZlZWUudHh0"]}]}],
@@ -13,9 +13,20 @@
 "sites":[
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/Biliych.json"},
-{"key":"douban","name":"🅱豆瓣荐片┃河津传媒推介首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":"douban","name":"🅱豆瓣荐片┃河津传媒推介首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://xn--m7r412advb92j21st65a.tk/json/alist.json"},
-	
+//关注公众号【盒锦】回复“接口”，获取最新接口
+
+    {
+      "key":"js豆瓣",
+      "name":"🍀公众号:盒锦,更新时间:2022/11/19",
+      "type":3,
+      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+      },
 //{"key":"csp_KanSJ","name":"🗽看视界┃SP","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--m7r412advb92j21st65a.tk/json/nmys.json"},
@@ -92,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
+      "ext": "https://notabug.org/fssyxs/bak/raw/master/hjtv.json"
     },
 {"key":"网易CC","name":"🏏网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/%E7%BD%91%E6%98%93CC.json"},
 {"key":"csp_xpath_酷狗MV","name":"🐶酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alive/v/raw/master/js/%E9%85%B7%E7%8B%97MV.json"},
@@ -235,7 +246,14 @@
 {"key":"csp_xBPQ_黑洞","name":"🍀黑洞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"class=\\\"hl-lc-1 remarks\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"hl-list-wrap&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},	
 {"key":"csp_xBPQ_app","name":"🍀app","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"国产电视剧$13#电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://app.movie/index.php/vod/type/id/{cateId}/page/{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},	
 {"key":"csp_xBPQ_酷客","name":"🍀酷客","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"简介：&&</li>\",\"播放标\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"http://www.2kuke.com/list/{cateId}_{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"},
-
+{"key":"csp_xp_6d","name":"💢六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/6d.json"},
+{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/348z.json"},
+//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xp/dm84.json"},
+{"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/dmw.json"},
+{"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/gongreng.json"},
+{"key":"csp_xp_doujiao","name":"💢豆角影视","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./xp/doujiao.json"},
+{"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/mozhatu.json"},
+{"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/yingba.json"},
 {"key":"天堂资源","name":"🐝天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电猫","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
 {"key":"多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","仑理","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
@@ -273,68 +291,12 @@
 //{"key":"dr_vip","name":"🔃vip","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=vip影院","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"dr_蓝莓","name":"🔃蓝莓","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_蓝光","name":"🔃蓝光","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_AnF","name":"🔃AnF","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_喵喵","name":"🔃喵喵","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_剧白白","name":"🔃剧白白","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_库马伊","name":"🔃库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_莫扎兔","name":"🔃莫扎兔","type":1,"api":"https://178666666.xyz/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "dr_18av","name": "🔃18av", "type": 1, "api": "https://178666666.xyz/vod?rule=18av&ext=txt/js/18/18av.js","searchable": 2, "quickSearch": 0, "filterable": 0},
 {"key": "dr_banan","name": "🔃banan", "type": 1,"api": "https://178666666.xyz/vod?rule=banan&ext=txt/js/18/banan.js","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key":"dr_DJ音乐","name":"🔃DJ音乐","type":1,"api":"https://178666666.xyz/vod?rule=DJ音乐","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_听书网","name":"🔃听书网","type":1,"api":"https://178666666.xyz/vod?rule=听书网","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_大师兄影视","name":"🔃大师兄影视","type":1,"api":"https://178666666.xyz/vod?rule==大师兄影视&ext=txt/js/tg/大师兄影视.js","searchable":1,"quickSearch":1,"filterable":0},
-        {
-            "key": "dr_Missav",
-            "name": "🔃Missav",
-            "type": 1,
-            "api": "https://178666666.xyz/vod?rule=Missav&ext=txt/js/18/Missav.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "dr_养端",
-            "name": "🔃养端",
-            "type": 1,
-            "api": "https://178666666.xyz/vod?rule=养端&ext=txt/js/18/养端.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "dr_吸瓜",
-            "name": "🔃吸瓜",
-            "type": 1,
-            "api": "https://178666666.xyz/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "dr_朱古力",
-            "name": "🔃朱古力",
-            "type": 1,
-            "api": "https://178666666.xyz/vod?rule=朱古力&ext=txt/js/18/朱古力.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "dr_玩偶姐姐",
-            "name": "🔃玩偶姐姐",
-            "type": 1,
-            "api": "https://178666666.xyz/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-      "key": "drpy_js_看视界",
-      "name": "🎉看视界🎉",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
-    },
 {"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://178666666.xyz/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0}],
 //解析设置
 "parses":[
