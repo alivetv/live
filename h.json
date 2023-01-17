@@ -5,7 +5,7 @@
 
 //"spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
 //"spider":"https://agit.ai/hjcm/boxing/raw/master/v/vod.jar;md5;c4ba98711fac35daff17780d0817f5dc",
-"spider":"./jar/hv.jar;md5;14B094CC4A491A476509DE2A1425C67D",
+"spider":"./jar/h.jar;md5;14B094CC4A491A476509DE2A1425C67D",
 //"spider": "https://codeberg.org/leevi/duo/raw/branch/main/jar/duox.jar;md5;78E55B1A26DBCF958821B284C405BCFD",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //"wallpaper":"https://tool.weetai.cn/api",
@@ -13,7 +13,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqY20vYm94aW5nL3Jhdy9icmFuY2gvbWFzdGVyL3YvdnYudHh0"]}]}],
 
 "sites":[
-{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://codeberg.org/boxtv/hjcm/raw/main/b/bilibili.json"},
+{"key":"csp_Bili","name":"🅱哔哩合集","api": "csp_Bilisearchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://codeberg.org/boxtv/hjcm/raw/main/b/bilibili.json"}
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://codeberg.org/boxtv/hjcm/raw/main/b/blych.json"},
 //{"key":"douban","name":"🅱豆瓣荐片┃河津传媒推介首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃河津传媒推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
