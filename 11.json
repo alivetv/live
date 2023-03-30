@@ -82,6 +82,7 @@
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "yeshijieC.json"
         },
+        {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "懒人影视1"
         },
@@ -89,7 +90,7 @@
             "url": "http://刚刚.live/猫",
             "name": "懒人影视2"
         },
-       {
+        {
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
             "name": "懒人影视3"
         },
@@ -101,11 +102,11 @@
             "url": "https://fastly.jsdelivr.net/gh/alivetv/live/15.json",
             "name": "TV交流自用"
         },
-       {
+        {
             "url": "https://www.agit.ai/dlee2008/13800/raw/commit/314f2c309408ef11057ddfe8f588831895c66850/cr/c18.json",
             "name": "星星点点"
         },
-       {
+        {
             "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
             "name": "星星灯灯"
         },
