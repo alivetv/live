@@ -1,169 +1,169 @@
-//´Ë¶à²Ö½Ó¿ÚÁĞ±íÎª¹«ÖÚºÅ¡¾÷ÈÁ¦¹¢³Ç¡¿×÷ÕßÎª·ÛË¿Ìá¹©±ãÀûÕûÀí¶ø³É£¬ÈçÓĞÃ°·¸¸÷Î»½Ó¿ÚËùÊô´óÉñ£¬ÇëÁªÏµÉ¾³ı¡£
-//×ªÔØÇë×¢Ã÷³ö´¦
+//æ­¤å¤šä»“æ¥å£åˆ—è¡¨ä¸ºå…¬ä¼—å·ã€é­…åŠ›è€¿åŸã€‘ä½œè€…ä¸ºç²‰ä¸æä¾›ä¾¿åˆ©æ•´ç†è€Œæˆï¼Œå¦‚æœ‰å†’çŠ¯å„ä½æ¥å£æ‰€å±å¤§ç¥ï¼Œè¯·è”ç³»åˆ é™¤ã€‚
+//è½¬è½½è¯·æ³¨æ˜å‡ºå¤„
 {
     "urls": [
         {
             "url": "https://ggtv.top/v/down.php/328d89a907f380c562ecd72d952ef30b.json",
-            "name": "÷ÈÁ¦¹¢³Ç"
+            "name": "é­…åŠ›è€¿åŸ"
         },
         {
             "url": "https://yydsys.top/duo",
-            "name": "Ğ¡Æ»¹û"
+            "name": "å°è‹¹æœ"
         }, 
         {
             "url": "http://xn--sss604efuw.ga/tv",
-            "name": "·¹Ì«Ó²"
+            "name": "é¥­å¤ªç¡¬"
         },                
         {
             "url": "https://la.kstore.space/download/3376/ts.txt",
-            "name": "ºĞ½õ"
+            "name": "ç›’é”¦"
         },
         {
             "url": "http://101.34.67.237/config/2",
-            "name": "Ğ¡ÑÅÏßÂ·"
+            "name": "å°é›…çº¿è·¯"
         },        
         {
             "url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
-            "name": "·äÃÛÏßÂ·"
+            "name": "èœ‚èœœçº¿è·¯"
         },
         {
             "url": "https://yydsys.top/lm.json",
-            "name": "ÁúÃÅÓ°ÊÓ"
+            "name": "é¾™é—¨å½±è§†"
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "Ëª»ÔÔÂÃ÷"
+            "name": "éœœè¾‰æœˆæ˜"
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
-            "name": "dxawi0ÏßÂ·"
+            "name": "dxawi0çº¿è·¯"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "ÀÏÁõ±¸ÏßÂ·"
+            "name": "è€åˆ˜å¤‡çº¿è·¯"
         },
         {
             "url": "https://app.easybox.vip/dy",
-            "name": "easyboxÏßÂ·"
+            "name": "easyboxçº¿è·¯"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
-            "name": "¾«Ñ¡"
+            "name": "ç²¾é€‰"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/51c184521c8fc2cdf61630c25f5e8f5073d39e66/long.json",
-            "name": "¾«Ñ¡1"
+            "name": "ç²¾é€‰1"
         },          
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/0f619aed7b2b3bb2ad99fc5b0bc299b0a98de6ae/X.json",
-            "name": "¾«Ñ¡2"
+            "name": "ç²¾é€‰2"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/06dd37e54c897cfad20934d9842da6e38d1a35aa/%E7%BA%BF%E8%B7%AF%E4%BC%98%E9%80%89.json",
-            "name": "¾«Ñ¡3"
+            "name": "ç²¾é€‰3"
         }, 
         {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
-            "name": "ÌğÃÛ"
+            "name": "ç”œèœœ"
         },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "µÀ³¤"
+            "name": "é“é•¿"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "°×æÎ"
+            "name": "ç™½å«–"
         },
         {
             "url": "https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt",
-            "name": "°×æÎ1"
+            "name": "ç™½å«–1"
         },
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "yeshijieC.json"
         },
             "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "ÀÁÈËÓ°ÊÓ1"
+            "name": "æ‡’äººå½±è§†1"
         },
         {
-            "url": "http://¸Õ¸Õ.live/Ã¨",
-            "name": "ÀÁÈËÓ°ÊÓ2"
+            "url": "http://åˆšåˆš.live/çŒ«",
+            "name": "æ‡’äººå½±è§†2"
         },
        {
             "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
-            "name": "ÀÁÈËÓ°ÊÓ3"
+            "name": "æ‡’äººå½±è§†3"
         },
         {
             "url": "https://0a.fit/X000",
-            "name": "ÀÁÈËÓ°ÊÓ4"
+            "name": "æ‡’äººå½±è§†4"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/alivetv/live/15.json",
-            "name": "TV½»Á÷×ÔÓÃ"
+            "name": "TVäº¤æµè‡ªç”¨"
         },
        {
             "url": "https://www.agit.ai/dlee2008/13800/raw/commit/314f2c309408ef11057ddfe8f588831895c66850/cr/c18.json",
-            "name": "ĞÇĞÇµãµã"
+            "name": "æ˜Ÿæ˜Ÿç‚¹ç‚¹"
         },
        {
             "url": "https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json",
-            "name": "ĞÇĞÇµÆµÆ"
+            "name": "æ˜Ÿæ˜Ÿç¯ç¯"
         },
-   {
+        {
             "url": "https://fastly.jsdelivr.net/gh/alivetv/live/16.m3u8",
-            "name": "TV½»Á÷ÏßÂ·"
+            "name": "TVäº¤æµçº¿è·¯"
         },
         {
             "url": "https://yydsys.top/duo/v.json",
-            "name": "¶à¶à½Ó¿Ú"
+            "name": "å¤šå¤šæ¥å£"
         },
         {
             "url": "https://yydsys.top/duo",
-            "name": "¶à¶à¼ÒÍ¥°æ"
+            "name": "å¤šå¤šå®¶åº­ç‰ˆ"
         }, 
         {
-            "url": "http://itvbox.cc/tvbox/ÔÆĞÇÈÕ¼Ç/1.m3u8",
-            "name": "ÔÆĞÇÈÕ¼Ç"
+            "url": "http://itvbox.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/1.m3u8",
+            "name": "äº‘æ˜Ÿæ—¥è®°"
         },                
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "ÔÂ¹â±¦ºĞ"
+            "name": "æœˆå…‰å®ç›’"
         },
         {
             "url": "http://134.122.170.64/xc.json",
-            "name": "ĞÇ³½ÏßÂ·"
+            "name": "æ˜Ÿè¾°çº¿è·¯"
         },        
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "äìÈ÷ÏßÂ·"
+            "name": "æ½‡æ´’çº¿è·¯"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "ÄÏ·çÏßÂ·"
+            "name": "å—é£çº¿è·¯"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
-            "name": "Îá°®ÏßÂ·"
+            "name": "å¾çˆ±çº¿è·¯"
         },          
         {
             "url": "http://miaotvs.cn/meow",
-            "name": "ß÷Ó°ÊÓ"
+            "name": "å–µå½±è§†"
         },
         {
-            "url": "https://Ô´Ïí¼Ò.ml/45127",
-            "name": "Ô´Ïí¼Ò"
+            "url": "https://æºäº«å®¶.ml/45127",
+            "name": "æºäº«å®¶"
         }, 
         {
             "url": "https://la.kstore.space/download/2883/0110.txt",
-            "name": "ÂìÒÏÂÛÌ³"
+            "name": "èš‚èšè®ºå›"
         },
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "·ÖÏíÕß"
+            "name": "åˆ†äº«è€…"
         },
         {
             "url": "https://ju.binghe.ga/4.txt",
-            "name": "±ùºÓÏßÂ·"
+            "name": "å†°æ²³çº¿è·¯"
         }
     ]
 }
